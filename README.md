@@ -21,4 +21,4 @@ To explore this dashboard:
   4.Interact with the dashboard tabs for insights.
 
  # 🌐 Live Dashboard (Hosted on Power BI Service)
-If you have access, you can view the [live dashboard here] (https://app.powerbi.com/groups/me/reports/e41d2399-d136-4ae5-ab08-6a85e34d1328/63cb7c20e17c47b6a043?experience=power-bi).
+If you have access, you can view the live dashboard here (https://app.powerbi.com/groups/me/reports/e41d2399-d136-4ae5-ab08-6a85e34d1328/63cb7c20e17c47b6a043?experience=power-bi).
